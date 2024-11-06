@@ -1,0 +1,147 @@
+microsoft/openjdk · JOBS.md
+Markdown·
+main
+products from the Microsoft family, such as Mojang’s Minecraft, LinkedIn, Yammer, and others. 
+LambdAurora/LambDynamicLights · API.md
+Markdown·
+1.21.2
+- `match` - The [item predicate](https://minecraft.wiki/w/Template:Nbt_inherit/conditions/item/template) to match the a…
+"items": "minecraft:fire_charge"
+"items": "minecraft:lava_bucket"
+"block": "minecraft:lava"
+"items": "minecraft:nether_star"
+"minecraft:torch",
+"minecraft:redstone_torch",
+"minecraft:soul_torch"
+KiltMC/Kilt · WHY.md
+Markdown·
+1.20.1
+I die. Something I can look back upon and think "Wow, I'm proud
+of myself for this."
+This is my love letter to Minecraft,
+the game that has raised me to who I am now, since I was 5.
+My gift to the community, born from my love of Fabric, and
+my hatred of Forge.
+DominoKorean/Render-dragon-shader-list · dev.md
+Markdown·
+main
+…where developers and users involved in the graphics of Minecraft, including shader packs, resource packs, and mods, ga…
+Unofficial shader development tool for Minecraft: Bedrock Edition with RenderDragon graphics engine.  
+This repository provides a comprehensive codebase for Minecraft Bedrock Edition shader development. It includes valuabl…
+xfl03/CoreModTutor · book/5.6.md
+Markdown·
+master
+import cc.hyperium.mixinsimp.renderer.HyperiumLayerCape;
+import net.minecraft.client.renderer.entity.layers.LayerCape;
+import org.spongepowered.asm.mixin.Mixin;
+import net.minecraft.client.gui.GuiButton;
+import net.minecraft.client.gui.GuiMainMenu;
+import net.minecraft.client.gui.GuiScreen;
+Show 44 more matches
+Mhy278/MinecraftServerHostGuide · Mod.md
+Markdown·
+master
+模组可以为您的服务器添加物品、方块、生物等新内容，改变原版 Minecraft 的游戏机制，也可以改善画面，优化性能。海量的模组资源极大地增加了 Minecraft 的生命力。  
+最后，请留意模组所适用的 Minecraft 版本号，以免安装不兼容的模组。
+ENIACJushi/TouHouLittleMaidBE · ho.txt
+Text·
+main
+…tions | C:/Users/Dell/AppData/Local/Packages/Microsoft.MinecraftUWP_8wekyb3d8bbwe/LocalState/games/com.mojang/developm…
+…tions | C:/Users/Dell/AppData/Local/Packages/Microsoft.MinecraftUWP_8wekyb3d8bbwe/LocalState/games/com.mojang/developm…
+…tions | C:/Users/Dell/AppData/Local/Packages/Microsoft.MinecraftUWP_8wekyb3d8bbwe/LocalState/games/com.mojang/developm…
+…tions | C:/Users/Dell/AppData/Local/Packages/Microsoft.MinecraftUWP_8wekyb3d8bbwe/LocalState/games/com.mojang/developm…
+…ning]-touhou_little_maid:warden_skull -> components -> minecraft:wearable -> dispensable: this member was found in the…
+[Components][error]-Items with the 'minecraft:wearable' component and 'slot' set to 'slot.armor.head' must have a max s…
+[Item][warning]-The "minecraft:shooter" component requires "minecraft:use_modifiers > use_duration" to be set with a no…
+…em][error]-Resource pack has item definitions not found in the behavior pack. Item 'minecraft:board' is being ignored.
+Show 10 more matches
+vgrichina/near-lands · FAQ.md
+Markdown·
+main
+Think Roblox/Minecraft/Cryptovoxels but in 2D and with world stored on chain
+Coloryr/ColorMC · Core.md
+Markdown·
+master
+  - Mclo 日志上传API
+  - Minecraft 皮肤获取API
+- NBT标签读写
+Show 2 more matches
+yuhui-zh15/SogouWord · 2.txt
+Text·
+master
+9311	水浒q传
+49962	Minecraft 我的世界
+50212	撸啊撸LOL
+Show 1 more match
+MultiMC/Translations · jv.po
+Gettext Catalog·
+master
+#: src/launcher/minecraft/auth/AccountList.cpp:210
+msgctxt "AccountList|Can Migrate?"
+#: src/launcher/minecraft/auth/flows/AuthContext.cpp:894
+msgctxt "AuthContext|"
+Show 98 more matches
+cryptax/techweb · rpi.md
+Markdown·
+master
+### Minecraft
+[How to install](https://raspbian-france.fr/installer-serveur-minecraft-raspberry-pi/). 
+Show 11 more matches
+kitnil/notes · nix.org
+Org·
+master
+- [[https://github.com/balsoft/nixos-minecraft-kiosk][balsoft/nixos-minecraft-kiosk]]
+PawelPamula/who-are-you · tmp.txt
+Text·
+master
+RT @BlackNerd: I can see parents now: "JOHNNY! GET THAT MINECRAFT OFF THE TABLE AND EAT YOUR DINNER!" #XboxE3 #E32015 #…
+RT @fxshaw: and you thought Minecraft was somewhat addictive before? You haven't seen anything yet... #XboxE3 #HoloLens
+RT @HoloLens: It’s official: @Minecraft is coming to Microsoft #HoloLens. #XboxE3 http://t.co/VSyAlmdu2s
+Here it is! @HoloLens + @Minecraft ! #E32015 #XboxE3
+arlosefj/github_interest · Go.md
+Markdown·
+master
+一个用 Go 编写的类 Minecraft 游戏。还支持多用户，项目首页下方有服务器端搭建说明
+orphu/mcdungeon-docs · FAQ.rst
+reStructuredText·
+master
+How do I use MCDungeon with older versions of Minecraft?
+========================================================
+MCDungeon is designed to work with a pariticular version of Minecraft,
+and makes use of features that may only supported in that particular
+Show 2 more matches
+emilytoyber/Minecraft_proj · agents/minecraft-bc/apt.txt
+Text·
+main curl git vim ssh gcc
+python-dev
+libsm6
+Lentern/mods · 1.21.md
+Markdown·
+main
+# The Best Performance (and Quality-of-Life) Mods for Minecraft 1.21
+…e list of the mods that I personally use while playing Minecraft. From tripling performance to revamped menus, these m…
+… Chat Patches mod. If that fixes it, add the mod back and then delete the file "chatlog.json" file in *.minecraft\logs*
+  * Improves the Minecraft chat with features like longer chat history
+  * Patches a bunch of unpatched bugs in vanilla Minecraft
+  * Allows you to switch between Minecraft account without restarting the game
+* [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud) - 1.20.6 ✔ 1.21 ✔ 1.21.1 ❌ ([1.21+ versions linked he…
+  * Allows for viewing of past in-game Minecraft sessions from a spectator POV and rendering of videos from this POV (v…
+Show 4 more matches
+zangsir/SPM · pi.txt
+Text·
+master
+-apache(https://www.raspberrypi.org/documentation/remote-access/web-server/apache.md)
+-github(maybe already have it)
+-create user?
+-minecraft python
+-just
+GTNewHorizons/RetroFuturaBootstrap · ll-spec.md
+Markdown·
+master
+ - `net.minecraft.launchwrapper.injector.AlphaVanillaTweakInjector`: fake applet injector to run alpha versions
+ - `net.minecraft.launchwrapper.injector.IndevVanillaTweakInjector`: asm patches to indev vanilla
+ - `net.minecraft.launchwrapper.injector.VanillaTweakInjector`: asm patches to the vanilla game
+```java
+package net.minecraft.launchwrapper;
+public interface ITweaker {
+Show 41 more matches
